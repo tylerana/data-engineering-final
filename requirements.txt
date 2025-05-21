@@ -1,0 +1,15 @@
+# Core libraries
+beautifulsoup4
+requests
+lxml
+pandas
+streamlit
+selenium
+webdriver-manager
+mysql-connector-python
+pdf2image
+Pillow
+googlesearch-python
+duckduckgo-search
+click
+primp
